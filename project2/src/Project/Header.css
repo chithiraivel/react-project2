@@ -1,0 +1,21 @@
+.slider{
+    height: 300px;
+    width: 100%;
+     background: url(../Assets/10.webp) center/cover no-repeat;
+     position: relative;
+ }
+
+ .brand-banner {
+    background-color:rgb(199, 193, 193);
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    cursor: pointer;
+
+}
+.brand-banner h3{
+    font-size: 30px;
+}
